@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Module1",
+"productVersion": "0.1",
+"dataUrl": "ngo_module1.data.unityweb",
+"wasmCodeUrl": "ngo_module1.wasm.code.unityweb",
+"wasmFrameworkUrl": "ngo_module1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
